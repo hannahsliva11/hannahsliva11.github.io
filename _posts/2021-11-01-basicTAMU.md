@@ -3,6 +3,6 @@ layout: post
 title: Life at Texas A&M
 ---
 
-This is my **first post**.
+Here is the **TAMU website** homepage.
 
 [Here's a website I like](https://www.tamu.edu/)
