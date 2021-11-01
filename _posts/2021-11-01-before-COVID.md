@@ -1,8 +1,8 @@
 ---
 layout: post
-title: Before COVID
+title: Life at Texas A&M
 ---
 
 This is my **first post**.
 
-[Here's a website I like](https://www.turfgrasssod.org/)
+[Here's a website I like](https://www.tamu.edu/)
